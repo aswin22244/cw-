@@ -7,9 +7,3 @@
 // Kata.getMiddle("testing") should return "t"
 
 // Kata.getMiddle("middle") should return "dd"
-
-function getMiddle("middle")
-{
-  const lngt=s.length()
-}
-console.log(lngt);
